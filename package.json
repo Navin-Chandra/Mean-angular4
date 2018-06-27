@@ -1,0 +1,21 @@
+{
+  "name": "awesome-bucketlist",
+  "version": "1.0.0",
+  "description": "A simple bucketlist app using MEAN stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navin Chandra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.7"
+  },
+  "devDependencies": {
+    "@angular/cli": "^6.0.8"
+  }
+}
